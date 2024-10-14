@@ -1,0 +1,13 @@
+Arduino nano *1
+nano extension board *1 ##
+micro servo*12          ##
+oled display*1          ##
+ultrasonic sensor*1     ##
+bluethoot module *1    ##
+7 v batterholder *1    ##
+lm2569 boost converter*1
+mini on off switch *3  ##
+mini led *3            ##
+df miniplayer 
+speaker 1.5w
+on off switch(selfmade)
